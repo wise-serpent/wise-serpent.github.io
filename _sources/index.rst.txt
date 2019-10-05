@@ -1,0 +1,35 @@
+Welcome to Agur's Blog!
+=======================
+
+You can learn a bit more about me under :ref:`about`, read my recent posts, or see what I've written on a particular topic. I write primarily for my children to be wise in the years to come and secondarily for others. My goal is to publish a post once a week. Feel free to leave a comment, especially if you disagree. My comment policy is pretty simple:
+
+1. Be respectful.
+2. Write to persuade the opposition, not preach to the choir. Perhaps not the completely-corrupts-lying-through-their-teeth-with-no-hope-of-redemption opposition, but at least the misguided-and-perhaps-more-corrupt-than-they-realize-opposition [#treatment]_.
+3. When in doubt, see rule 1.
+
+Recent Posts
+------------
+
+.. postlist:: 5
+   :excerpts:
+   :format: {title} by {author} on {date}
+   :list-style: disc
+
+.. `toctree` directive, below, contains list of non-post `.rst` files.
+   This is how they appear in Navigation sidebar. Note that directive
+   also contains `:hidden:` option so that it is not included inside the page.
+
+   Posts are excluded from this directive so that they aren't double listed
+   in the sidebar both under Navigation and Recent Posts.
+
+.. toctree::
+   :hidden:
+
+   about.rst
+
+Footnotes
+---------
+
+.. [#treatment] As a rule of thumb, the opposition [#me]_ does not respond to being misrepresented, mocked, ignored, called stupid, or having real points replaced with strawmen.
+
+.. [#me] At least I don't. My opposition might be inhuman monsters who aren't like me at all in this regard, but since most of them still have 10 toes, 10 fingers, 2 eyes, a nose, and a mouth, it's probably better to assume they are more-or-less human.

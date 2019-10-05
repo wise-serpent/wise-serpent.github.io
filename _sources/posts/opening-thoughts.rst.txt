@@ -1,0 +1,47 @@
+.. post:: Aug 18, 2019
+   :tags: general
+   :author: Agur
+   :excerpt: 2
+
+Opening Thoughts
+================
+
+Dear children,
+
+Why write? Why me? Years ago, there were enough books that of the making of books there was no end, and much study was a weariness of the body. Surely a printing press and an internet later has not improved the situation. And if there was nothing new under the sun then, how much less now [#eccl]_? In a day and ago where publishing has never been cheaper -- and many are eager to do so -- why add my words to the fray? If every careless word [#matt]_ will be accounted for on the day of judgement, why add unnecessarily to my words? And even if we just look at this day and age, what do I have to say that hasn't been said by many others?
+
+First, and perhaps most importantly, my children, instructing you is my responsibility. You have no other fathers. And while there is great freedom in how I fulfill that responsibility, writing has certain advantages:
+
+* It can outlast me, especially since who know what the future can will hold?
+* It creates reflection and intentionality.
+* In a medium such as a blog, it lends itself toward presenting nuanced reasoned thought.
+* It can be referred back to rather rapidly passing away. *This benefit is a double-edged sword, of course, since it also means my folly and idiocy will also last. But perhaps that will help me to model conscientious reflection on the ignorance of my youth.*
+
+So perhaps the question is: Why write publicly?
+
+1. Thoughtful discourse is in desparately short supply. One might suppose that with the cost of publishing being at an all-time low, wisdom and knowledege could be easily found on every topic under the sun. But alas, it is not so. And if the world is going to be so short on wisdom, my bad ideas can't be that much worse than what everyone is saying, so why not throw them into the public arena?
+2. Public figures should write prolifically [#prolific]_. On my braver days, I have some interest in politics. And I have the quaint idea that one of the basic requirements for politicians should be ten or twenty years of regular writing on how they view the world. And so on the off-chance that I ever do run for office, people can get to know me this way [#ha]_.
+3. Why not? The world -- or at least the American internet -- is in desparate need of thoughtful discourse. If my work can perhaps help a few people make a bit more sense out of the world, perhaps that is worth it.
+
+And finally, why write under a pseudonym?
+
+First, I value being gainfully employeed. Currently my writings aren't profitable [#profit]_. If they become popular, there's no reason to prematurely jeopardize my day-to-day job by the kind of attention that an angry internet mob can create. Secondly, it lets me write more openly and sooner about situations than would be possible if friends and family could easily map them to to specific people and organizations. After all, how does one go about finding the right group to say in person to say something like "I wonder if much of what I learned for the past twenty years about passing on Christianity to others is deeply and fundamentally flawed?" While I'm prepared to muse and write about such questions, I'm not yet ready to jeopardize relationships by widely spreading such concerns under my real world identity. Perhaps this refusial is cowardice, but I believe politicians call it *pragmaticism* 😉.
+
+So thus I'm taking up writing about that which I contemplate. For my children, I hope it becomes a reflection upon truth and wisdom that encourages loving Jesus with all of your minds. For others who love the Bible, I hope it catalyzes careful thought and reflection about how to apply the scriptures in these times. And for the public at large, I hope it clarifies the perspective I would bring to any office.
+
+Agur
+
+Footnotes
+---------
+
+.. [#eccl] See `Ecclesiastes 1 <https://www.biblegateway.com/passage/?search=Ecclesiastes+1:9&version=ESV>`_ and `Ecclesiastes 12 <https://www.biblegateway.com/passage/?search=Ecclesiastes+12:11-12&version=ESV>`_
+
+.. [#matt] I don't suppose Jesus meant to limit the judgement of careless words to only `those spoken <https://www.biblegateway.com/passage/?search=Matthew+12:36&version=ESV>`_ although that would make writing a lot less scary.
+
+.. [#ha] I'll also probably say enough stupid and unpopular comments that I'll easily ensure that I never get elected, which will save me from having to be too concerned about actually going anywhere in politics. And my opponents can appreciate not having to manufacture falsehoods about me since I'll be providing them with plenty of ammunition.
+
+.. [#prolific] I'll write about why at some point in the future. The short version is that plentiful writing incentivizes such figures to lead from conviction,  minimizes the effectiveness of blowing in the wind to please the crowds, and reduces the natural tendency of fame to exalt people as tabula rasas onto which we read our own desires.
+
+.. [#profit] Given that I am just starting to write, this fact should not be surprising. Given what I read about most writers, I suspect it is still hard to pay the bills as an established writers. Although rumor has it that if I promise six steps to wealth, fame, and happiness -- with the first step or two involving giving me money, then it is a lot easier to become established [#wealth]_.
+
+.. [#wealth] So if you are pursuing wealth, fame, or happiness, I'm sure giving me money couldn't hurt your chances. Feel free to do so frequently and often. 💸

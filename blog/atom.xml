@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Be Wise, My Children</title>
+  <id>http://localhost:8000/blog/atom.xml</id>
+  <updated>2019-09-01T00:00:00Z</updated>
+  <link href="http://localhost:8000/" />
+  <link href="http://localhost:8000/blog/atom.xml" rel="self" />
+  <generator uri="http://ablog.readthedocs.org" version="0.9.4">ABlog</generator>
+  <entry xml:base="http://localhost:8000/blog/atom.xml">
+    <title type="text">Ambition</title>
+    <id>http://localhost:8000/posts/ambition/</id>
+    <updated>2019-09-01T00:00:00Z</updated>
+    <published>2019-09-01T00:00:00Z</published>
+    <link href="http://localhost:8000/posts/ambition/" />
+    <author>
+      <name>Agur, son of Jakeh</name>
+    </author>
+    <content type="html">&lt;p&gt;Oh my daughter, beware the man with no ambition. Who can look at the world around them and not want to do more, change more, control more? There is so much evil in the world, so many hurting people – how can one look around and not want to make more of a difference? And if not the world, who can look around and not want to bring more joy to his wife, his children, his friends, his community? Those who do not dream of greatness are likely foolish – or lying.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://localhost:8000/blog/atom.xml">
+    <title type="text">Opening Thoughts</title>
+    <id>http://localhost:8000/posts/opening-thoughts/</id>
+    <updated>2019-08-18T00:00:00Z</updated>
+    <published>2019-08-18T00:00:00Z</published>
+    <link href="http://localhost:8000/posts/opening-thoughts/" />
+    <author>
+      <name>Agur, son of Jakeh</name>
+    </author>
+    <content type="html">&lt;p&gt;Dear children,&lt;/p&gt;
+&lt;p&gt;Why write? Why me? Years ago, there were enough books that of the making of books there was no end, and much study was a weariness of the body. Surely a printing press and an internet later has not improved the situation. And if there was nothing new under the sun then, how much less now &lt;a class=&quot;footnote-reference brackets&quot; href=&quot;#eccl&quot; id=&quot;id1&quot;&gt;1&lt;/a&gt;? In a day and ago where publishing has never been cheaper – and many are eager to do so – why add my words to the fray? If every careless word &lt;a class=&quot;footnote-reference brackets&quot; href=&quot;#matt&quot; id=&quot;id2&quot;&gt;2&lt;/a&gt; will be accounted for on the day of judgement, why add unnecessarily to my words? And even if we just look at this day and age, what do I have to say that hasn’t been said by many others?&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://localhost:8000/blog/atom.xml">
+    <title type="text">Power Brokering</title>
+    <id>http://localhost:8000/posts/power/</id>
+    <updated>2019-08-01T00:00:00Z</updated>
+    <published>2019-08-01T00:00:00Z</published>
+    <link href="http://localhost:8000/posts/power/" />
+    <author>
+      <name>Agur, son of Jakeh</name>
+    </author>
+    <content type="html">&lt;p&gt;Power is insidious. When we do not possess it, we see power as freedom. Yet as Solomon reminds us, one official is eyed by a higher one, and over them both are others higher still. If one were elected to the Senate, taking a stance would be no easy matter. Fail to play nicely with the other senators, and one get no committees, no sway – why do the few independent senators chose to caucus with one of the parties?. Be enough of a thorn, and one’s state can be locked out of federal money. And what good is one doing then, assuming one could even stay elected?&lt;/p&gt;
+</content>
+  </entry>
+</feed>
